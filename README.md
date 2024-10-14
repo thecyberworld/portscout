@@ -1,6 +1,6 @@
-# port-scanner
+# PortScout
 
-A fast port scanner written in python with a focus on reliability and simplicity.
+Fast and Reliable Port Scanning Made Simple.
 
 ### Prerequisites
 
