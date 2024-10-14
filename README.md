@@ -38,7 +38,7 @@ Fast and Reliable Port Scanning Made Simple.
 
 ---
 
-> If you are new to Git and GitHub then must check out **[git-github-practice](https://github.com/thecyberworld/first-contribution)** repository **first** and contribute to it before you contributing to other open-source projects.
+> If you are new to Git and GitHub then must check out **[First Contribution](https://github.com/thecyberworld/first-contribution)** repository **first** and contribute to it before you contributing to other open-source projects.
 
 ## 👨‍💻 Contributing
 
